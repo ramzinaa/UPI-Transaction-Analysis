@@ -48,3 +48,22 @@ Power BI
 Interactive Dashboard
         ↓
 Business Insights
+
+## 📈 Key Findings
+
+Based on the analysis of 250,000 UPI transactions, the following insights were identified:
+
+- **Transaction Success Rate:** 95.05% of transactions were successful, while 4.95% failed.
+- **Fraud Analysis:** 0.19% of transactions (480 records) were flagged as potential fraud, while 99.81% were marked as non-fraud.
+- **Top Merchant Category:** Grocery recorded the highest transaction volume with 49,966 transactions (19.99%).
+- **Food Transactions:** Food ranked second with 37,464 transactions (14.99%).
+- **Transaction Value:** Among the top five merchant categories by volume, Shopping recorded the highest transaction amount at ₹7.69 crore.
+
+### 💡 Business Insights
+
+- The high transaction success rate indicates strong overall transaction completion in the analyzed dataset.
+- Failed transactions represent an area for further investigation to understand possible payment issues.
+- Grocery and Food account for a substantial share of transaction activity.
+- Fraud-flagged records can be examined further to identify potential risk patterns.
+
+*Note: Fraud-flagged records are dataset classifications and do not necessarily represent independently confirmed fraud cases.*

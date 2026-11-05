@@ -67,3 +67,15 @@ Based on the analysis of 250,000 UPI transactions, the following insights were i
 - Fraud-flagged records can be examined further to identify potential risk patterns.
 
 *Note: Fraud-flagged records are dataset classifications and do not necessarily represent independently confirmed fraud cases.*
+
+## 📂 Project Files
+
+- **SQL Analysis:** [UPI_Transaction_Analysis.sql](UPI_Transaction_Analysis.sql)
+- **Power BI Dashboard:** [EV/UPI Dashboard PBIX](UPI_Transaction_Analysis.pbix)
+- **Dashboard Screenshots:** [View Screenshots](screenshots/)
+
+## 👩‍💻 Author
+
+**Ramseena M**
+
+[GitHub](https://github.com/ramzinaa) | [LinkedIn](https://linkedin.com/in/ramseena-m-48b6a53b3/)

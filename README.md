@@ -68,11 +68,13 @@ Based on the analysis of 250,000 UPI transactions, the following insights were i
 
 *Note: Fraud-flagged records are dataset classifications and do not necessarily represent independently confirmed fraud cases.*
 
-## 📂 Project Files
+📂 Project Files
 
-- **SQL Analysis:** [View SQL File](https://github.com/ramzinaa/UPI-Transaction-Analysis/blob/main/UPI_Transaction_Analysis.sql)
-- **Power BI Dashboard:** [View Power BI Dashboard](https://github.com/ramzinaa/UPI-Transaction-Analysis/blob/main/UPI_Transaction_Analysis.pbix)
-- **Dashboard Screenshots:** [View Screenshots](https://github.com/ramzinaa/UPI-Transaction-Analysis/tree/main/screenshots)
+- [SQL Analysis – View File](https://github.com/ramzinaa/UPI-Transaction-Analysis/blob/main/UPI_Transaction_Analysis.sql)
+
+- [Power BI Dashboard – View File](https://github.com/ramzinaa/UPI-Transaction-Analysis/blob/main/UPI_Transaction_Analysis.pbix)
+
+- [Dashboard Screenshots](https://github.com/ramzinaa/UPI-Transaction-Analysis/tree/main/screenshots)
 
 ## 👩‍💻 Author
 

@@ -70,9 +70,9 @@ Based on the analysis of 250,000 UPI transactions, the following insights were i
 
 ## 📂 Project Files
 
-- **SQL Analysis:** [UPI_Transaction_Analysis.sql](UPI_Transaction_Analysis.sql)
-- **Power BI Dashboard:** [UPI_Transaction_Analysis.pbix](UPI_Transaction_Analysis.pbix)
-- **Dashboard Screenshots:** [View Screenshots](screenshots/)
+- **SQL Analysis:** [View SQL File](https://github.com/ramzinaa/UPI-Transaction-Analysis/blob/main/UPI_Transaction_Analysis.sql)
+- **Power BI Dashboard:** [View Power BI Dashboard](https://github.com/ramzinaa/UPI-Transaction-Analysis/blob/main/UPI_Transaction_Analysis.pbix)
+- **Dashboard Screenshots:** [View Screenshots](https://github.com/ramzinaa/UPI-Transaction-Analysis/tree/main/screenshots)
 
 ## 👩‍💻 Author
 

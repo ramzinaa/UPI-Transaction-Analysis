@@ -71,7 +71,7 @@ Based on the analysis of 250,000 UPI transactions, the following insights were i
 ## 📂 Project Files
 
 - **SQL Analysis:** [UPI_Transaction_Analysis.sql](UPI_Transaction_Analysis.sql)
-- **Power BI Dashboard:** [EV/UPI Dashboard PBIX](UPI_Transaction_Analysis.pbix)
+- **Power BI Dashboard:** [UPI_Transaction_Analysis.pbix](UPI_Transaction_Analysis.pbix)
 - **Dashboard Screenshots:** [View Screenshots](screenshots/)
 
 ## 👩‍💻 Author
